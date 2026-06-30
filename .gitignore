@@ -4,3 +4,4 @@ production/
 elpass-backups/
 
 fabrication-toolkit-options.json
+*.lck
