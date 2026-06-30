@@ -1,0 +1,6 @@
+*.bak
+.history/
+production/
+elpass-backups/
+
+fabrication-toolkit-options.json
