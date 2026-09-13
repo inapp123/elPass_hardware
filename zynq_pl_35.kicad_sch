@@ -12140,7 +12140,7 @@
 			(justify left bottom)
 		)
 		(uuid "03d5cb5b-ebda-44ed-8594-0e9336807bd4")
-		(property "网络类" "HDMI_TMDS"
+		(property "Netclass" "HDMI_TMDS"
 			(at 47.6885 121.92 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12175,7 +12175,7 @@
 			(justify left bottom)
 		)
 		(uuid "1a886733-0427-4467-a7a8-c3a256fa1678")
-		(property "网络类" "HDMI_TMDS"
+		(property "Netclass" "HDMI_TMDS"
 			(at 37.5285 111.76 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12210,7 +12210,7 @@
 			(justify left bottom)
 		)
 		(uuid "1c28e07e-7c82-4dcc-95ce-b2ebb201daf8")
-		(property "网络类" "HDMI_TMDS"
+		(property "Netclass" "HDMI_TMDS"
 			(at 50.2285 124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12245,7 +12245,7 @@
 			(justify left bottom)
 		)
 		(uuid "43e8d3e7-7bd8-4035-a61e-8ba7244efad3")
-		(property "网络类" "HDMI_TMDS"
+		(property "Netclass" "HDMI_TMDS"
 			(at 52.7685 127 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12280,7 +12280,7 @@
 			(justify left bottom)
 		)
 		(uuid "8480a6be-e160-4659-83ae-20b1e79a23f4")
-		(property "网络类" "HDMI_TMDS"
+		(property "Netclass" "HDMI_TMDS"
 			(at 42.6085 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12315,7 +12315,7 @@
 			(justify left bottom)
 		)
 		(uuid "c6f2e500-6fcb-4304-a889-cbb4344689a0")
-		(property "网络类" "HDMI_TMDS"
+		(property "Netclass" "HDMI_TMDS"
 			(at 45.1485 119.38 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12350,7 +12350,7 @@
 			(justify left bottom)
 		)
 		(uuid "f5d7b938-4208-4fb6-ba0e-183a85f52e8f")
-		(property "网络类" "HDMI_TMDS"
+		(property "Netclass" "HDMI_TMDS"
 			(at 34.9885 109.22 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12385,7 +12385,7 @@
 			(justify left bottom)
 		)
 		(uuid "fecbcafc-bfea-4b41-ad21-67aee172a3ee")
-		(property "网络类" "HDMI_TMDS"
+		(property "Netclass" "HDMI_TMDS"
 			(at 40.0685 114.3 0)
 			(show_name no)
 			(do_not_autoplace no)

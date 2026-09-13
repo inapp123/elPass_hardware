@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 25,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -21,7 +21,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": false,
+      "lockedItems": true,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -113,7 +113,7 @@
     "expanded_rows": [],
     "filter_by_net_name": true,
     "filter_by_netclass": true,
-    "filter_text": "HDMI_",
+    "filter_text": "ZYNQ_WL_SDIO",
     "group_by_constraint": false,
     "group_by_netclass": false,
     "show_time_domain_details": false,
